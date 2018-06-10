@@ -1,0 +1,5 @@
+E:\MyProject\Methods\M.FilesHelper\bin\Debug\M.FilesHelper.dll
+E:\MyProject\Methods\M.FilesHelper\bin\Debug\M.FilesHelper.pdb
+E:\MyProject\Methods\M.FilesHelper\obj\Debug\M.FilesHelper.dll
+E:\MyProject\Methods\M.FilesHelper\obj\Debug\M.FilesHelper.pdb
+E:\MyProject\Methods\M.FilesHelper\obj\Debug\M.FilesHelper.csprojResolveAssemblyReference.cache

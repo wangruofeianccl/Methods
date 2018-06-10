@@ -1,0 +1,17 @@
+E:\MyProject\Methods\TestForm\bin\Debug\TestForm.exe.config
+E:\MyProject\Methods\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+E:\MyProject\Methods\TestForm\obj\Debug\TestForm.Form1.resources
+E:\MyProject\Methods\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+E:\MyProject\Methods\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+E:\MyProject\Methods\TestForm\bin\Debug\TestForm.exe
+E:\MyProject\Methods\TestForm\bin\Debug\TestForm.pdb
+E:\MyProject\Methods\TestForm\bin\Debug\M.ExcelHelper.dll
+E:\MyProject\Methods\TestForm\bin\Debug\NPOI.dll
+E:\MyProject\Methods\TestForm\bin\Debug\M.ExcelHelper.pdb
+E:\MyProject\Methods\TestForm\obj\Debug\TestForm.exe
+E:\MyProject\Methods\TestForm\obj\Debug\TestForm.pdb
+E:\MyProject\Methods\TestForm\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\MyProject\Methods\TestForm\bin\Debug\M.OracleHelper.dll
+E:\MyProject\Methods\TestForm\bin\Debug\M.OracleHelper.pdb
+E:\MyProject\Methods\TestForm\bin\Debug\M.FilesHelper.dll
+E:\MyProject\Methods\TestForm\bin\Debug\M.FilesHelper.pdb

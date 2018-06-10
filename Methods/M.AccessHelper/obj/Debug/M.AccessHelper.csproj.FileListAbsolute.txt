@@ -1,0 +1,5 @@
+E:\MyProject\Methods\M.AccessHelper\bin\Debug\M.AccessHelper.dll
+E:\MyProject\Methods\M.AccessHelper\bin\Debug\M.AccessHelper.pdb
+E:\MyProject\Methods\M.AccessHelper\obj\Debug\M.AccessHelper.dll
+E:\MyProject\Methods\M.AccessHelper\obj\Debug\M.AccessHelper.pdb
+E:\MyProject\Methods\M.AccessHelper\bin\Debug\libs\MyDataBacse.accdb

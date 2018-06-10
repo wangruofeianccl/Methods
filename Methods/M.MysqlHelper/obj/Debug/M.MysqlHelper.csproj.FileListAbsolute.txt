@@ -1,0 +1,12 @@
+E:\MyProject\YJ-Vote-ui-1.0\M.MysqlHelper\bin\Debug\M.MysqlHelper.dll
+E:\MyProject\YJ-Vote-ui-1.0\M.MysqlHelper\bin\Debug\M.MysqlHelper.pdb
+E:\MyProject\YJ-Vote-ui-1.0\M.MysqlHelper\obj\Debug\M.MysqlHelper.dll
+E:\MyProject\YJ-Vote-ui-1.0\M.MysqlHelper\obj\Debug\M.MysqlHelper.pdb
+E:\MyProject\YJ-Vote-ui-1.0\M.MysqlHelper\bin\Debug\MySql.Data.dll
+E:\MyProject\YJ-Vote-ui-1.0\M.MysqlHelper\obj\Debug\M.MysqlHelper.csprojResolveAssemblyReference.cache
+E:\MyProject\Methods\M.MysqlHelper\bin\Debug\M.MysqlHelper.dll
+E:\MyProject\Methods\M.MysqlHelper\bin\Debug\M.MysqlHelper.pdb
+E:\MyProject\Methods\M.MysqlHelper\bin\Debug\MySql.Data.dll
+E:\MyProject\Methods\M.MysqlHelper\obj\Debug\M.MysqlHelper.dll
+E:\MyProject\Methods\M.MysqlHelper\obj\Debug\M.MysqlHelper.pdb
+E:\MyProject\Methods\M.MysqlHelper\obj\Debug\M.MysqlHelper.csprojResolveAssemblyReference.cache

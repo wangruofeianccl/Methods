@@ -1,0 +1,354 @@
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HPSF.Constants 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Model.HSSFFormulaParser 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Model.ParseNode 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Model.RecordOrderer 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Model.InternalSheet 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.PLSAggregate 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.SharedValueManager 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.AutoFilter.DOPERComparisonCode 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.AutoFilter.DOPERType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.AutoFilter.DOPERErrorValue 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.ComparisonOperator 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.CF.CellRangeUtil 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Chart.CategoryDataType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Chart.PositionMode 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Constant.ConstantValueParser 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Constant.ErrorConstant 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Cont.ContinuableRecordOutput 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Cont.UnknownLengthRecordOutput 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Crypto.Biff8EncryptionKey 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Crypto.RC4 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.SerializationListener 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.SpecialCachedValue 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.AddPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Atp.AnalysisToolPak 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Atp.ParityFunction 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Atp.YearFrac 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.ConcatPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.DividePtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.EqualPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.BlankEval 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.ConcatEval 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.ErrorEval 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.MissingArgEval 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.OperandResolver 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.PercentEval 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.RangeEval 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.UnaryMinusEval 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.UnaryPlusEval 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.FormulaShifter 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.CalendarFieldFunction 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.CountUtils 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.DateFunc 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.FinanceLib 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Indirect 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.LookupUtils 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.LookupValueComparerBase 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.CompareResult 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.BinarySearchIndexes 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.BooleanLookupComparer 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.MathX 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.StatsLib 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Function.FunctionDataBuilder 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Function.FunctionMetadata 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Function.FunctionMetadataReader 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.GreaterEqualPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.GreaterThanPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.IntersectionPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.LessEqualPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.LessThanPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.MissingArgPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.MultiplyPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.NotEqualPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.ParenthesisPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.PercentPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.PowerPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.RangePtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.SheetNameFormatter 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.SubtractPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.UnaryMinusPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.UnaryPlusPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.UnionPtg 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.RkRec 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.PColor 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.SimpleHeaderInput 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.CommonObjectType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFChartType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFChart 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFErrorConstants 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.EventFileSystem.POIFSReaderEventHandler 生成存根: 类型已密封。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.EventFileSystem.POIFSWriterEventHandler 生成存根: 类型已密封。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.FileSystem.CloseIgnoringInputStream 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Properties.PropertyFactory 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Storage.BigBlock 生成存根: method System.Void NPOI.POIFS.Storage.BigBlock.WriteData(System.IO.Stream stream) unstubbable: 方法是抽象的，因此无法用作存根，方法签名类型对于 exported or assembly(NPOI.1.2.4.0.Fakes) or subtype(BigBlock in assembly NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Storage.BATBlock 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Storage.DocumentBlock 生成存根: method System.Void NPOI.POIFS.Storage.BigBlock.WriteData(System.IO.Stream stream) unstubbable: 方法是抽象的，因此无法用作存根，方法签名类型对于 exported or assembly(NPOI.1.2.4.0.Fakes) or subtype(DocumentBlock in assembly NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Storage.HeaderBlockWriter 生成存根: method System.Void NPOI.POIFS.Storage.BigBlock.WriteData(System.IO.Stream stream) unstubbable: 方法是抽象的，因此无法用作存根，方法签名类型对于 exported or assembly(NPOI.1.2.4.0.Fakes) or subtype(HeaderBlockWriter in assembly NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Storage.PropertyBlock 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Storage.SmallDocumentBlock 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Util.HSSFCellUtil 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Util.HSSFRegionUtil 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.DVConstraint 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.EvaluationCycleDetector 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.EvaluationCycleDetectorManager 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFEvaluationWorkbook 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFName 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.OperationEvaluatorFactory 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.StaticFontMetrics 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Resource1 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.CellEvaluationFrame 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.CollaboratingWorkbooksEnvironment 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.Formula 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaCellCacheEntrySet 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.OperandClassTransformer 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.OperationEvaluatorFactory 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.ParseNode 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.PlainCellCache 生成存根: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.UserDefinedFunction 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.SpreadsheetVersion 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.BorderStyle 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.CellType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.CellBorderType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.AnchorType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FillPatternType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontUnderlineType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontSuperScript 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontColor 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontBoldWeight 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontCharset 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontFamily 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontScheme 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontUnderline 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FormulaError 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.HorizontalAlignment 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.HyperlinkType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IndexedColors 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.PageOrder 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.PaperSize 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.PictureType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.PrintCellComments 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.PrintOrientation 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.DisplayCellErrorType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.MarginType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.PanePosition 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.VerticalAlignment 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.SheetState 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Util.NameType 生成存根: 类型是一个值类型。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Util.SSNFormat 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Util.ZipPlusFourFormat 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Util.PhoneFormat 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Util.SSCellRange`1 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.Collections.EmptyEnumerable 生成存根: 类型已密封。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.Collections.EmptyEnumerator 生成存根: 类型已密封。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.HexDump 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.LittleEndian 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.BufferUnderrunException 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.POILogFactory 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.StringUtil 生成存根: 类型没有系列可见的构造函数。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 <PrivateImplementationDetails>{2932EF47-1C01-4D33-A5CA-8E108A2E3C45} 生成存根: 类型不受支持，因为存在内部限制。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.RecordBase 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.RecordAggregate+RecordSizingVisitor 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.RecordAggregate+SerializingRecordVisitor 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.RecordVisitor 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.DDF.EscherRecordFactory 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.DDF.EscherRecord+EscherRecordHeader 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.DDF.EscherDggRecord+EscherDggRecordComparer 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.DDF.EscherDump+PropName 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.DDF.EscherSerializationListener 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HPSF.Constants 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HPSF.Extractor.HPSFPropertiesExtractor+PropertiesOnlyDocument 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HPSF.Section+PropertyListEntry 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HPSF.MutableSection+PropertyComparer 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.EventModel.ERFListener 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.EventModel.ModelFactoryListener 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.EventUserModel.HSSFListener 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.EventUserModel.EventWorkbookBuilder+StubHSSFWorkbook 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IWorkbook 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFWorkbook+SheetRecordCollector 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Extractor.EventBasedExcelExtractor+TextListener 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Model.LinkTable+CRNBlock 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Model.LinkTable+ExternalBookBlock 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Model.Model 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Model.ParseNode 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Model.InternalSheet+RecordCloner 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Model.InternalSheet+RecordVisitor1 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.ColumnInfoRecordsAggregate+CIRComparator 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.CellValueRecordInterface 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.PageSettingsBlock+CustomRecordVisitor1 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.PLSAggregate 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.SharedValueManager+SharedFormulaGroup 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.SharedValueManager+SharedFormulaGroupComparator 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Aggregates.ValueRecordsAggregate+MyEnumerator 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.AutoFilter.DOPERComparisonCode 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.AutoFilter.DOPERType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.AutoFilter.DOPERErrorValue 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.BiffHeaderInput 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Margin 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.BoundSheetRecord+BOFComparator 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.ComparisonOperator 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Chart.ChartFRTInfoRecord+CFRTID 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Chart.ChartTitleFormatRecord+CTFormat 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Chart.CategoryDataType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Chart.PositionMode 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.IO.LittleEndianOutput 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Cont.ContinuableRecordOutput+DelayableLittleEndianOutput1 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.IO.DelayableLittleEndianOutput 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Cont.UnknownLengthRecordOutput 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.IO.LittleEndianInput 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Crypto.RC4 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.CustomField 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.SerializationListener 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.EscherAggregate+CustomEscherRecordFactory 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.SpecialCachedValue 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.AreaI 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.WorkbookDependentFormula 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.ExternSheetReferenceToken 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.FreeRefFunction 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Atp.YearFrac 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Atp.YearFracCalculator+SimpleDate 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.ValueEval 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.AreaEval 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.NumericValueEval 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.StringValueEval 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Function 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Function2Arg 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.Eval 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.FunctionEval+FunctionID 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.OperationEval 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Function1Arg 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Eval.RefEval 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.MultiOperandNumericFunction+DoubleList 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Function0Arg 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Count+I_MatchPredicate1 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.I_MatchPredicate 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Countif+BooleanMatcher 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Countif+CmpOp 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Countif+NumberMatcher 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Countif+StringMatcher 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.CountUtils 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Function3Arg 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Function4Arg 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.ValueVector 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.LookupUtils 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.LookupValueComparer 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.LookupValueComparerBase 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.BinarySearchIndexes 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.BooleanLookupComparer 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Offset+BaseRef 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Offset+EvalEx 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Sumproduct+EvalEx 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.XYNumericFunction+AreaValueArray 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.XYNumericFunction+DoubleArrayPair 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.XYNumericFunction+RefValueArray 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.XYNumericFunction+SingleCellValueArray 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.XYNumericFunction+ValueArray 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Functions.Accumulator 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Function.FunctionDataBuilder 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.Formula.Function.FunctionMetadataReader 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.RkRec 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.NameRecord+Option 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.PColor 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.PivotTable.ViewFieldsRecord+Axis 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.RecordFactoryInputStream+StreamEncryptionInfo 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.SimpleHeaderInput 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Record.CommonObjectType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFChartType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Dev.POIFSViewable 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.EventFileSystem.POIFSReaderEventHandler 生成填充码: 类型是一个委托。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.EventFileSystem.POIFSReaderListener 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.EventFileSystem.POIFSWriterEventHandler 生成填充码: 类型是一个委托。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.EventFileSystem.POIFSWriterListener 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.FileSystem.BATManaged 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.FileSystem.CloseIgnoringInputStream 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.FileSystem.Entry 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.FileSystem.DirectoryEntry 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.FileSystem.DocumentEntry 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Storage.BlockWritable 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.FileSystem.POIFSDocument+BigBlockStore 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.FileSystem.POIFSDocument+SmallBlockStore 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Properties.Child 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Properties.Parent 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Storage.BlockList 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Storage.ListManagedBlock 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.POIFS.Storage.PropertyBlock+AnonymousProperty 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Util.HSSFCellUtil+UnicodeMapping 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.Util.HSSFRegionUtil+CellPropertySetter 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.EvaluationCycleDetector 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.EvaluationCycleDetectorManager 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IHeaderFooter 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.ICell 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.ICellStyle 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IClientAnchor 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IShape 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.Textbox 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IComment 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.CreationHelper 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IDataFormat 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFDataValidation+DataType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFDataValidation+ERRORSTYLE 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFDataValidation+OperatorType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.EvaluationCell 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.EvaluationSheet 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaRenderingWorkbook 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.IEvaluationWorkbook 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaParsingWorkbook 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFEvaluationWorkbook+Name 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.IEvaluationName 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IFont 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IFooter 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FormulaEvaluator 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IHeader 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IHyperlink 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IName 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFPalette+CustomColor 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.HSSFShapeContainer 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IDrawing 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IPicture 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IPrintSetup 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IRichTextString 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IRow 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.ISheet 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.OperationEvaluatorFactory 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.HSSF.UserModel.StaticFontMetrics 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Resource1 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.ICacheEntry 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.CellEvaluationFrame 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.IEntryOperation 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaCellCacheEntrySet 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaParser+Identifier 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaParser+SheetIdentifier 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaParser+SimpleRangePart 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaUsedBlankCellSet+BlankCellRectangleGroup 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.FormulaUsedBlankCellSet+BlankCellSheetGroup 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.IEvaluationListener 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.OperandClassTransformer 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.OperationEvaluatorFactory 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.ParseNode 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Formula.PlainCellCache 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.BorderStyle 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.CellType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.ICellRange`1 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.CellBorderType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.AnchorType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FillPatternType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontUnderlineType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontSuperScript 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontColor 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.FontBoldWeight 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.HorizontalAlignment 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.HyperlinkType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.PaperSize 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.PictureType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.IPictureData 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.DisplayCellErrorType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.MarginType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.PanePosition 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.VerticalAlignment 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.UserModel.SheetState 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Util.NameType 生成填充码: 类型是一个枚举。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.SS.Util.SSCellRange`1+ArrayIterator`1 生成填充码: 类型对 exported or assembly(NPOI.1.2.4.0.Fakes) 不可见。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.FixedField 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 NPOI.Util.Collections.ISet 生成填充码: 类型是一个接口。
+E:\MyProject\Methods\M.ExcelHelper\Fakes\NPOI.fakes : warning : 无法为 <PrivateImplementationDetails>{2932EF47-1C01-4D33-A5CA-8E108A2E3C45} 生成填充码: 类型不受支持，因为存在内部限制。

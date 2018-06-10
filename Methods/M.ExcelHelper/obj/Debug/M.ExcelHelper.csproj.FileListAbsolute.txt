@@ -1,0 +1,8 @@
+E:\MyProject\Methods\M.ExcelHelper\bin\Debug\M.ExcelHelper.dll
+E:\MyProject\Methods\M.ExcelHelper\bin\Debug\M.ExcelHelper.pdb
+E:\MyProject\Methods\M.ExcelHelper\bin\Debug\NPOI.dll
+E:\MyProject\Methods\M.ExcelHelper\obj\Debug\M.ExcelHelper.dll
+E:\MyProject\Methods\M.ExcelHelper\obj\Debug\M.ExcelHelper.pdb
+E:\MyProject\Methods\M.ExcelHelper\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\MyProject\Methods\M.ExcelHelper\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\MyProject\Methods\M.ExcelHelper\obj\Debug\M.ExcelHelper.csprojResolveAssemblyReference.cache

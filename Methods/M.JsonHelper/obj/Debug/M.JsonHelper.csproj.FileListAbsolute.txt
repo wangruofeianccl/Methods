@@ -1,0 +1,5 @@
+E:\MyProject\Methods\M.JsonHelper\bin\Debug\M.JsonHelper.dll
+E:\MyProject\Methods\M.JsonHelper\bin\Debug\M.JsonHelper.pdb
+E:\MyProject\Methods\M.JsonHelper\obj\Debug\M.JsonHelper.dll
+E:\MyProject\Methods\M.JsonHelper\obj\Debug\M.JsonHelper.pdb
+E:\MyProject\Methods\M.JsonHelper\obj\Debug\M.JsonHelper.csprojResolveAssemblyReference.cache

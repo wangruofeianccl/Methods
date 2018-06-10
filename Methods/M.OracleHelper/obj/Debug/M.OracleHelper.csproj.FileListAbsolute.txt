@@ -1,0 +1,5 @@
+E:\MyProject\Methods\M.OracleHelper\bin\Debug\M.OracleHelper.dll
+E:\MyProject\Methods\M.OracleHelper\bin\Debug\M.OracleHelper.pdb
+E:\MyProject\Methods\M.OracleHelper\obj\Debug\M.OracleHelper.dll
+E:\MyProject\Methods\M.OracleHelper\obj\Debug\M.OracleHelper.pdb
+E:\MyProject\Methods\M.OracleHelper\obj\Debug\M.OracleHelper.csprojResolveAssemblyReference.cache

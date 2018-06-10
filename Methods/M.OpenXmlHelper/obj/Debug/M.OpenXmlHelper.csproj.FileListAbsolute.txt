@@ -1,0 +1,6 @@
+E:\MyProject\Methods\M.OpenXmlHelper\bin\Debug\M.OpenXmlHelper.dll
+E:\MyProject\Methods\M.OpenXmlHelper\bin\Debug\M.OpenXmlHelper.pdb
+E:\MyProject\Methods\M.OpenXmlHelper\bin\Debug\DocumentFormat.OpenXml.dll
+E:\MyProject\Methods\M.OpenXmlHelper\obj\Debug\M.OpenXmlHelper.dll
+E:\MyProject\Methods\M.OpenXmlHelper\obj\Debug\M.OpenXmlHelper.pdb
+E:\MyProject\Methods\M.OpenXmlHelper\obj\Debug\M.OpenXmlHelper.csprojResolveAssemblyReference.cache

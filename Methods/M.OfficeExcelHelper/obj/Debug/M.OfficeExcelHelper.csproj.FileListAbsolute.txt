@@ -1,0 +1,5 @@
+E:\MyProject\Methods\M.OfficeExcelHelper\bin\Debug\M.OfficeExcelHelper.dll
+E:\MyProject\Methods\M.OfficeExcelHelper\bin\Debug\M.OfficeExcelHelper.pdb
+E:\MyProject\Methods\M.OfficeExcelHelper\obj\Debug\M.OfficeExcelHelper.dll
+E:\MyProject\Methods\M.OfficeExcelHelper\obj\Debug\M.OfficeExcelHelper.pdb
+E:\MyProject\Methods\M.OfficeExcelHelper\obj\Debug\M.OfficeExcelHelper.csprojResolveAssemblyReference.cache

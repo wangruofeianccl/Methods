@@ -1,0 +1,2 @@
+1、未在本地计算机上注册“Microsoft.ACE.OLEDB.12.0”提供程序。
+解决方法：找到安装目录下“AccessProject\AccessProject\bin\Debug\Data”的AccessDatabaseEngine.exe，双击安装即可。
